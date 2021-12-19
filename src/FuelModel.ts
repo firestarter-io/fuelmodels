@@ -41,10 +41,19 @@ export interface FuelModel {
 		 */
 		hundredHour: number;
 		/**
-		 * Live
+		 * Live herbaceous load is the value before dynamic fuel model load transfer to dead herbaceous
 		 */
-		live: number;
+		liveHerbaceous: number;
+		/**
+		 * Live woody fuel loading
+		 */
+		liveWoody: number;
 	};
+	/**
+	 * Surface-area-to-volume ratios, in ft^2/ft^3
+	 */
+
+	sav?: {};
 	/**
 	 * Depth of fuel bed, in feet
 	 */

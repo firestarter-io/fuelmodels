@@ -6,8 +6,11 @@
 	"scripts": {
 		"build": "rm -rf dist && tsc && npm run writejsons",
 		"writejsons": "node -r tsconfig-paths/register -r ts-node/register writejsons.ts",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"checkoutput": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz"
 	},
+	"files": [
+		"/dist"
+	],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/firestarter-io/fuelmodels.git"
