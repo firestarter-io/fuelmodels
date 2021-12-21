@@ -9,7 +9,8 @@
 		"checkoutput": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz"
 	},
 	"files": [
-		"/dist"
+		"/dist",
+		"*.png"
 	],
 	"repository": {
 		"type": "git",

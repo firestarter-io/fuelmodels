@@ -7,7 +7,13 @@
 			"oneHour": 0.1,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 0.3
+			"liveHerbaceous": 0.3,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 2054,
+			"oneHour": 2200,
+			"liveAndDeadHerbaceous": 2000
 		},
 		"fuelBedDepth": 0.4,
 		"packingRatio": 0.00143,
@@ -23,7 +29,13 @@
 			"oneHour": 0.1,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 1
+			"liveHerbaceous": 1,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1820,
+			"oneHour": 2000,
+			"liveAndDeadHerbaceous": 1800
 		},
 		"fuelBedDepth": 1,
 		"packingRatio": 0.00158,
@@ -39,7 +51,13 @@
 			"oneHour": 0.1,
 			"tenHour": 0.4,
 			"hundredHour": 0,
-			"live": 1.5
+			"liveHerbaceous": 1.5,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1290,
+			"oneHour": 1500,
+			"liveAndDeadHerbaceous": 1300
 		},
 		"fuelBedDepth": 2,
 		"packingRatio": 0.00143,
@@ -55,7 +73,13 @@
 			"oneHour": 0.25,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 1.9
+			"liveHerbaceous": 1.9,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1826,
+			"oneHour": 2000,
+			"liveAndDeadHerbaceous": 1800
 		},
 		"fuelBedDepth": 2,
 		"packingRatio": 0.00154,
@@ -71,7 +95,13 @@
 			"oneHour": 0.4,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 2.5
+			"liveHerbaceous": 2.5,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1631,
+			"oneHour": 1800,
+			"liveAndDeadHerbaceous": 1600
 		},
 		"fuelBedDepth": 1.5,
 		"packingRatio": 0.00277,
@@ -87,7 +117,13 @@
 			"oneHour": 0.1,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 3.4
+			"liveHerbaceous": 3.4,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 2006,
+			"oneHour": 2200,
+			"liveAndDeadHerbaceous": 2000
 		},
 		"fuelBedDepth": 1.5,
 		"packingRatio": 0.00335,
@@ -103,7 +139,13 @@
 			"oneHour": 1,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 5.4
+			"liveHerbaceous": 5.4,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1834,
+			"oneHour": 2000,
+			"liveAndDeadHerbaceous": 1800
 		},
 		"fuelBedDepth": 3,
 		"packingRatio": 0.00306,
@@ -119,7 +161,13 @@
 			"oneHour": 0.5,
 			"tenHour": 1,
 			"hundredHour": 0,
-			"live": 7.3
+			"liveHerbaceous": 7.3,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1302,
+			"oneHour": 1500,
+			"liveAndDeadHerbaceous": 1300
 		},
 		"fuelBedDepth": 4,
 		"packingRatio": 0.00316,
@@ -135,7 +183,13 @@
 			"oneHour": 1,
 			"tenHour": 1,
 			"hundredHour": 0,
-			"live": 9
+			"liveHerbaceous": 9,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1612,
+			"oneHour": 1800,
+			"liveAndDeadHerbaceous": 1600
 		},
 		"fuelBedDepth": 5,
 		"packingRatio": 0.00316,
@@ -151,7 +205,14 @@
 			"oneHour": 0.2,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 0.5
+			"liveHerbaceous": 0.5,
+			"liveWoody": 0.65
+		},
+		"sav": {
+			"characteristic": 1832,
+			"oneHour": 2000,
+			"liveAndDeadHerbaceous": 1800,
+			"liveWoody": 1800
 		},
 		"fuelBedDepth": 0.9,
 		"packingRatio": 0.00215,
@@ -167,7 +228,14 @@
 			"oneHour": 0.5,
 			"tenHour": 0.5,
 			"hundredHour": 0,
-			"live": 0.6
+			"liveHerbaceous": 0.6,
+			"liveWoody": 1
+		},
+		"sav": {
+			"characteristic": 1827,
+			"oneHour": 2000,
+			"liveAndDeadHerbaceous": 1800,
+			"liveWoody": 1800
 		},
 		"fuelBedDepth": 1.5,
 		"packingRatio": 0.00249,
@@ -183,7 +251,14 @@
 			"oneHour": 0.3,
 			"tenHour": 0.25,
 			"hundredHour": 0,
-			"live": 1.45
+			"liveHerbaceous": 1.45,
+			"liveWoody": 1.25
+		},
+		"sav": {
+			"characteristic": 1614,
+			"oneHour": 1800,
+			"liveAndDeadHerbaceous": 1600,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 1.8,
 		"packingRatio": 0.00259,
@@ -199,7 +274,14 @@
 			"oneHour": 1.9,
 			"tenHour": 0.3,
 			"hundredHour": 0.1,
-			"live": 3.4
+			"liveHerbaceous": 3.4,
+			"liveWoody": 7.1
+		},
+		"sav": {
+			"characteristic": 1631,
+			"oneHour": 1800,
+			"liveAndDeadHerbaceous": 1600,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 2.1,
 		"packingRatio": 0.00874,
@@ -215,7 +297,14 @@
 			"oneHour": 0.25,
 			"tenHour": 0.25,
 			"hundredHour": 0.1,
-			"live": 0.15
+			"liveHerbaceous": 0.15,
+			"liveWoody": 1.3
+		},
+		"sav": {
+			"characteristic": 1672,
+			"oneHour": 2000,
+			"liveAndDeadHerbaceous": 1800,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 1,
 		"packingRatio": 0.0028,
@@ -231,7 +320,13 @@
 			"oneHour": 1.35,
 			"tenHour": 2.4,
 			"hundredHour": 0.75,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 3.85
+		},
+		"sav": {
+			"characteristic": 1672,
+			"oneHour": 2000,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 1,
 		"packingRatio": 0.01198,
@@ -247,7 +342,13 @@
 			"oneHour": 0.45,
 			"tenHour": 3,
 			"hundredHour": 0,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 6.2
+		},
+		"sav": {
+			"characteristic": 1371,
+			"oneHour": 1600,
+			"liveWoody": 1400
 		},
 		"fuelBedDepth": 2.4,
 		"packingRatio": 0.00577,
@@ -263,7 +364,14 @@
 			"oneHour": 0.85,
 			"tenHour": 1.15,
 			"hundredHour": 0.2,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 2.55
+		},
+		"sav": {
+			"characteristic": 1682,
+			"oneHour": 2000,
+			"liveAndDeadHerbaceous": 1800,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 3,
 		"packingRatio": 0.00227,
@@ -279,7 +387,13 @@
 			"oneHour": 3.6,
 			"tenHour": 2.1,
 			"hundredHour": 0.2,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 2.9
+		},
+		"sav": {
+			"characteristic": 1252,
+			"oneHour": 750,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 6,
 		"packingRatio": 0.00206,
@@ -295,7 +409,13 @@
 			"oneHour": 2.9,
 			"tenHour": 1.45,
 			"hundredHour": 0.2,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 1.4
+		},
+		"sav": {
+			"characteristic": 1144,
+			"oneHour": 750,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 2,
 		"packingRatio": 0.00412,
@@ -311,7 +431,13 @@
 			"oneHour": 3.5,
 			"tenHour": 5.3,
 			"hundredHour": 2.2,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 3.4
+		},
+		"sav": {
+			"characteristic": 1233,
+			"oneHour": 750,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 6,
 		"packingRatio": 0.00344,
@@ -327,7 +453,13 @@
 			"oneHour": 2.05,
 			"tenHour": 3.4,
 			"hundredHour": 0.85,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 4.35
+		},
+		"sav": {
+			"characteristic": 1386,
+			"oneHour": 750,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 3,
 		"packingRatio": 0.00509,
@@ -343,7 +475,14 @@
 			"oneHour": 4.5,
 			"tenHour": 2.45,
 			"hundredHour": 0,
-			"live": 1.55
+			"liveHerbaceous": 1.55,
+			"liveWoody": 7
+		},
+		"sav": {
+			"characteristic": 1378,
+			"oneHour": 750,
+			"liveAndDeadHerbaceous": 1800,
+			"liveWoody": 1500
 		},
 		"fuelBedDepth": 3,
 		"packingRatio": 0.00505,
@@ -359,7 +498,14 @@
 			"oneHour": 0.2,
 			"tenHour": 0.9,
 			"hundredHour": 1.5,
-			"live": 0.2
+			"liveHerbaceous": 0.2,
+			"liveWoody": 0.9
+		},
+		"sav": {
+			"characteristic": 1606,
+			"oneHour": 2000,
+			"liveAndDeadHerbaceous": 1800,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 0.6,
 		"packingRatio": 0.00885,
@@ -375,7 +521,13 @@
 			"oneHour": 0.95,
 			"tenHour": 1.8,
 			"hundredHour": 1.25,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0.2
+		},
+		"sav": {
+			"characteristic": 1767,
+			"oneHour": 2000,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 1,
 		"packingRatio": 0.00603,
@@ -391,7 +543,14 @@
 			"oneHour": 1.1,
 			"tenHour": 0.15,
 			"hundredHour": 0.25,
-			"live": 0.65
+			"liveHerbaceous": 0.65,
+			"liveWoody": 1.1
+		},
+		"sav": {
+			"characteristic": 1611,
+			"oneHour": 1800,
+			"liveAndDeadHerbaceous": 1600,
+			"liveWoody": 1400
 		},
 		"fuelBedDepth": 1.3,
 		"packingRatio": 0.00359,
@@ -407,7 +566,13 @@
 			"oneHour": 4.5,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 2
+		},
+		"sav": {
+			"characteristic": 2216,
+			"oneHour": 2300,
+			"liveWoody": 2000
 		},
 		"fuelBedDepth": 0.5,
 		"packingRatio": 0.01865,
@@ -423,7 +588,13 @@
 			"oneHour": 4,
 			"tenHour": 4,
 			"hundredHour": 3,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 3
+		},
+		"sav": {
+			"characteristic": 1224,
+			"oneHour": 1500,
+			"liveWoody": 750
 		},
 		"fuelBedDepth": 1,
 		"packingRatio": 0.02009,
@@ -439,7 +610,12 @@
 			"oneHour": 1,
 			"tenHour": 2.2,
 			"hundredHour": 3.6,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1716,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 0.2,
 		"packingRatio": 0.04878,
@@ -455,7 +631,12 @@
 			"oneHour": 1.4,
 			"tenHour": 2.3,
 			"hundredHour": 2.2,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1806,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 0.2,
 		"packingRatio": 0.04232,
@@ -471,7 +652,12 @@
 			"oneHour": 0.5,
 			"tenHour": 2.2,
 			"hundredHour": 2.9,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1532,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 0.3,
 		"packingRatio": 0.0263,
@@ -487,7 +673,12 @@
 			"oneHour": 0.5,
 			"tenHour": 1.5,
 			"hundredHour": 4.2,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1568,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 0.4,
 		"packingRatio": 0.02224,
@@ -503,7 +694,13 @@
 			"oneHour": 1.15,
 			"tenHour": 2.5,
 			"hundredHour": 4.4,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1713,
+			"oneHour": 2000,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 0.6,
 		"packingRatio": 0.01925,
@@ -519,7 +716,12 @@
 			"oneHour": 2.4,
 			"tenHour": 1.2,
 			"hundredHour": 1.2,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1936,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 0.3,
 		"packingRatio": 0.02296,
@@ -535,7 +737,12 @@
 			"oneHour": 0.3,
 			"tenHour": 1.4,
 			"hundredHour": 8.1,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1229,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 0.4,
 		"packingRatio": 0.03515,
@@ -551,7 +758,12 @@
 			"oneHour": 5.8,
 			"tenHour": 1.4,
 			"hundredHour": 1.1,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1770,
+			"oneHour": 1800
 		},
 		"fuelBedDepth": 0.3,
 		"packingRatio": 0.03969,
@@ -567,7 +779,13 @@
 			"oneHour": 6.65,
 			"tenHour": 3.3,
 			"hundredHour": 4.15,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1773,
+			"oneHour": 1800,
+			"liveWoody": 1600
 		},
 		"fuelBedDepth": 0.6,
 		"packingRatio": 0.03372,
@@ -583,7 +801,12 @@
 			"oneHour": 1.5,
 			"tenHour": 3,
 			"hundredHour": 11,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1653,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 1,
 		"packingRatio": 0.02224,
@@ -599,7 +822,12 @@
 			"oneHour": 4.5,
 			"tenHour": 4.25,
 			"hundredHour": 4,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1884,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 1,
 		"packingRatio": 0.01829,
@@ -615,7 +843,12 @@
 			"oneHour": 5.5,
 			"tenHour": 2.75,
 			"hundredHour": 3,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1935,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 1.2,
 		"packingRatio": 0.01345,
@@ -631,7 +864,12 @@
 			"oneHour": 5.25,
 			"tenHour": 3.5,
 			"hundredHour": 5.25,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 1907,
+			"oneHour": 2000
 		},
 		"fuelBedDepth": 2.7,
 		"packingRatio": 0.00744,
@@ -648,7 +886,12 @@
 			"oneHour": 0,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 0,
+			"oneHour": 0
 		},
 		"fuelBedDepth": 0,
 		"packingRatio": 0,
@@ -665,7 +908,12 @@
 			"oneHour": 0,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 0,
+			"oneHour": 0
 		},
 		"fuelBedDepth": 0,
 		"packingRatio": 0,
@@ -682,7 +930,12 @@
 			"oneHour": 0,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 0,
+			"oneHour": 0
 		},
 		"fuelBedDepth": 0,
 		"packingRatio": 0,
@@ -699,7 +952,12 @@
 			"oneHour": 0,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 0,
+			"oneHour": 0
 		},
 		"fuelBedDepth": 0,
 		"packingRatio": 0,
@@ -716,7 +974,12 @@
 			"oneHour": 0,
 			"tenHour": 0,
 			"hundredHour": 0,
-			"live": 0
+			"liveHerbaceous": 0,
+			"liveWoody": 0
+		},
+		"sav": {
+			"characteristic": 0,
+			"oneHour": 0
 		},
 		"fuelBedDepth": 0,
 		"packingRatio": 0,
