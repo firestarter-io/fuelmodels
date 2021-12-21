@@ -11,17 +11,17 @@ Mathematical predictions of wildfire depend on characteristics of various fuel m
 ## Install and Use
 
 ```
-npm install @firestarter/fuelmodels
+npm install @firestarter.io/fuelmodels
 ```
 
 ```ts
-import { FBFM13, FBFM40 } from '@firestarter/fuelmodels';
+import { FBFM13, FBFM40 } from '@firestarter.io/fuelmodels';
 ```
 
 Fuel model characteristics are also available in JSON format:
 
 ```ts
-import FBFM13 from '@firestarter/fuelmodels/dist/FBFM14.json';
+import FBFM13 from '@firestarter.io/fuelmodels/dist/FBFM14.json';
 ```
 
 ## Data Sources
