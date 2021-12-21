@@ -1,5 +1,5 @@
 {
-	"name": "@firestarter/fuelmodels",
+	"name": "@firestarter.io/fuelmodels",
 	"version": "0.1.0",
 	"description": "Constants for Anderson's 13 Fuel Models and Scott &amp; Burgan's 40 Fuel Models",
 	"main": "dist/index.js",
