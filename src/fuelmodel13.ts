@@ -67,6 +67,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 		},
 		sav: {
 			oneHour: 3000,
+			liveAndDeadHerbaceous: 1500,
 		},
 		fuelBedDepth: 1,
 		relativePackingRatio: 1.14,
@@ -110,6 +111,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveWoody: 1500,
 		},
 		fuelBedDepth: 6,
 		relativePackingRatio: 0.52,
@@ -131,6 +133,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveWoody: 1500,
 		},
 		fuelBedDepth: 2,
 		relativePackingRatio: 0.33,
@@ -173,6 +176,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 		},
 		sav: {
 			oneHour: 1750,
+			liveWoody: 1500,
 		},
 		fuelBedDepth: 2.5,
 		relativePackingRatio: 0.34,
@@ -237,6 +241,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveWoody: 1500,
 		},
 		fuelBedDepth: 1,
 		relativePackingRatio: 2.35,

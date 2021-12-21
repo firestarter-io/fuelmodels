@@ -42,6 +42,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2200,
+			liveAndDeadHerbaceous: 2000,
 		},
 		fuelBedDepth: 0.4,
 		packingRatio: 0.00143,
@@ -63,6 +64,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveAndDeadHerbaceous: 1800,
 		},
 		fuelBedDepth: 1.0,
 		packingRatio: 0.00158,
@@ -84,6 +86,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1500,
+			liveAndDeadHerbaceous: 1300,
 		},
 		fuelBedDepth: 2.0,
 		packingRatio: 0.00143,
@@ -105,6 +108,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveAndDeadHerbaceous: 1800,
 		},
 		fuelBedDepth: 2.0,
 		packingRatio: 0.00154,
@@ -126,6 +130,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1800,
+			liveAndDeadHerbaceous: 1600,
 		},
 		fuelBedDepth: 1.5,
 		packingRatio: 0.00277,
@@ -147,6 +152,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2200,
+			liveAndDeadHerbaceous: 2000,
 		},
 		fuelBedDepth: 1.5,
 		packingRatio: 0.00335,
@@ -168,6 +174,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveAndDeadHerbaceous: 1800,
 		},
 		fuelBedDepth: 3.0,
 		packingRatio: 0.00306,
@@ -189,6 +196,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1500,
+			liveAndDeadHerbaceous: 1300,
 		},
 		fuelBedDepth: 4.0,
 		packingRatio: 0.00316,
@@ -210,6 +218,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1800,
+			liveAndDeadHerbaceous: 1600,
 		},
 		fuelBedDepth: 5.0,
 		packingRatio: 0.00316,
@@ -232,6 +241,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveAndDeadHerbaceous: 1800,
+			liveWoody: 1800,
 		},
 		fuelBedDepth: 0.9,
 		packingRatio: 0.00215,
@@ -253,6 +264,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveAndDeadHerbaceous: 1800,
+			liveWoody: 1800,
 		},
 		fuelBedDepth: 1.5,
 		packingRatio: 0.00249,
@@ -274,6 +287,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1800,
+			liveAndDeadHerbaceous: 1600,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 1.8,
 		packingRatio: 0.00259,
@@ -295,6 +310,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1800,
+			liveAndDeadHerbaceous: 1600,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 2.1,
 		packingRatio: 0.00874,
@@ -317,6 +334,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveAndDeadHerbaceous: 1800,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 1.0,
 		packingRatio: 0.0028,
@@ -338,6 +357,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 1.0,
 		packingRatio: 0.01198,
@@ -359,6 +379,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1600,
+			liveWoody: 1400,
 		},
 		fuelBedDepth: 2.4,
 		packingRatio: 0.00577,
@@ -380,6 +401,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveAndDeadHerbaceous: 1800,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 3.0,
 		packingRatio: 0.00227,
@@ -401,6 +424,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 750,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 6.0,
 		packingRatio: 0.00206,
@@ -422,6 +446,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 750,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 2.0,
 		packingRatio: 0.00412,
@@ -443,6 +468,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 750,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 6.0,
 		packingRatio: 0.00344,
@@ -464,6 +490,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 750,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 3.0,
 		packingRatio: 0.00509,
@@ -485,6 +512,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 750,
+			liveAndDeadHerbaceous: 1800,
+			liveWoody: 1500,
 		},
 		fuelBedDepth: 3.0,
 		packingRatio: 0.00505,
@@ -507,6 +536,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveAndDeadHerbaceous: 1800,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 0.6,
 		packingRatio: 0.00885,
@@ -528,6 +559,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 1.0,
 		packingRatio: 0.00603,
@@ -549,6 +581,8 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1800,
+			liveAndDeadHerbaceous: 1600,
+			liveWoody: 1400,
 		},
 		fuelBedDepth: 1.3,
 		packingRatio: 0.00359,
@@ -570,6 +604,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2300,
+			liveWoody: 2000,
 		},
 		fuelBedDepth: 0.5,
 		packingRatio: 0.01865,
@@ -591,6 +626,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1500,
+			liveWoody: 750,
 		},
 		fuelBedDepth: 1.0,
 		packingRatio: 0.02009,
@@ -697,6 +733,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 2000,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 0.6,
 		packingRatio: 0.01925,
@@ -781,6 +818,7 @@ export const FBFM40: { [key: string]: FuelModel40 } = {
 		},
 		sav: {
 			oneHour: 1800,
+			liveWoody: 1600,
 		},
 		fuelBedDepth: 0.6,
 		packingRatio: 0.03372,

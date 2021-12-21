@@ -58,6 +58,14 @@ export interface FuelModel {
 		 * Surface-area-to-volume ratio for 1 hour time lag
 		 */
 		oneHour: number;
+		/**
+		 * Surface-area-to-volume ratio for live and dead herbaceous fuel
+		 */
+		liveAndDeadHerbaceous?: number;
+		/**
+		 * Surface-area-to-volume ratio for woody fuel
+		 */
+		liveWoody?: number;
 	};
 	/**
 	 * Depth of fuel bed, in feet
