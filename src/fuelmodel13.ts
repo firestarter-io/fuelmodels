@@ -45,6 +45,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 3500,
 			oneHour: 3500,
 		},
 		fuelBedDepth: 1,
@@ -66,6 +67,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 2784,
 			oneHour: 3000,
 			liveAndDeadHerbaceous: 1500,
 		},
@@ -88,6 +90,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 1500,
 			oneHour: 1500,
 		},
 		fuelBedDepth: 2.5,
@@ -110,6 +113,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 5.0,
 		},
 		sav: {
+			characteristic: 1739,
 			oneHour: 2000,
 			liveWoody: 1500,
 		},
@@ -132,6 +136,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 2.0,
 		},
 		sav: {
+			characteristic: 1683,
 			oneHour: 2000,
 			liveWoody: 1500,
 		},
@@ -154,6 +159,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 1564,
 			oneHour: 1750,
 		},
 		fuelBedDepth: 2.5,
@@ -175,6 +181,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0.37,
 		},
 		sav: {
+			characteristic: 1552,
 			oneHour: 1750,
 			liveWoody: 1500,
 		},
@@ -198,6 +205,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 1889,
 			oneHour: 2000,
 		},
 		fuelBedDepth: 0.2,
@@ -219,6 +227,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 2484,
 			oneHour: 2500,
 		},
 		fuelBedDepth: 0.2,
@@ -240,6 +249,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 2,
 		},
 		sav: {
+			characteristic: 1764,
 			oneHour: 2000,
 			liveWoody: 1500,
 		},
@@ -263,6 +273,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 1182,
 			oneHour: 1500,
 		},
 		fuelBedDepth: 1,
@@ -284,6 +295,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 1145,
 			oneHour: 1500,
 		},
 		fuelBedDepth: 2.3,
@@ -305,6 +317,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 1159,
 			oneHour: 1500,
 		},
 		fuelBedDepth: 3,
@@ -326,6 +339,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 0,
 			oneHour: 0,
 		},
 		fuelBedDepth: 0,
@@ -345,6 +359,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 0,
 			oneHour: 0,
 		},
 		fuelBedDepth: 0,
@@ -364,6 +379,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 0,
 			oneHour: 0,
 		},
 		fuelBedDepth: 0,
@@ -383,6 +399,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 0,
 			oneHour: 0,
 		},
 		fuelBedDepth: 0,
@@ -402,6 +419,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 0,
 			oneHour: 0,
 		},
 		fuelBedDepth: 0,
@@ -421,6 +439,7 @@ export const FBFM13: { [key: string]: FuelModel13 } = {
 			liveWoody: 0,
 		},
 		sav: {
+			characteristic: 0,
 			oneHour: 0,
 		},
 		fuelBedDepth: 0,

@@ -55,6 +55,10 @@ export interface FuelModel {
 
 	sav: {
 		/**
+		 * Characteristic Surface-area-to-volume ratio
+		 */
+		characteristic: number;
+		/**
 		 * Surface-area-to-volume ratio for 1 hour time lag
 		 */
 		oneHour: number;
