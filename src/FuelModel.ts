@@ -53,7 +53,12 @@ export interface FuelModel {
 	 * Surface-area-to-volume ratios, in ft^2/ft^3
 	 */
 
-	sav?: {};
+	sav: {
+		/**
+		 * Surface-area-to-volume ratio for 1 hour time lag
+		 */
+		oneHour: number;
+	};
 	/**
 	 * Depth of fuel bed, in feet
 	 */
